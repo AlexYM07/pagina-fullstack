@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f0f8ff;
+}
+
+input, button{
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+}
+button{
+    background-color: lightcoral;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(240, 128, 128, 0.842);
+}
